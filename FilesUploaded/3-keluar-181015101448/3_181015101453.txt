@@ -1,0 +1,6 @@
+SIKD Dinas Arsipus Kab Klaten 
+Belum Upload SQL terbaru untuk sikd yang digunakan 
+backup tabel pengguna dan tabel klasifikasi arsip karena jika ingin mengupload SQL terbaru maka data sebelumnya akan hilang
+SIKD yang belum diupdate database terbaru tidak bisa melakukan pencatatan arsip 
+Disposisi sementara masih mengikuti cara di SIKD dengan template dari disposisi dinas arsip 
+db_sikd_azJTkSyLwt
